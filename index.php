@@ -11,8 +11,8 @@
 	<h1>Hello, world</h1>
 	<h2>My name is Heather.</h2>
 	<p>Once upon a time I was on a fast track to becoming a web designer. 
-		Then I got a job in communications. That is fun, but this is funner.
+		Then I got a job in communications. That is fun, but this is funner so I'm back on track.
 		I like walks on the beach and unicorns.</p>
-	<p>For ahile I used TextWrangler but this semester I'm trying Sublime.</p>
+	<p>For awhile I used TextWrangler but this semester I'm trying Sublime.</p>
 </body>
 </html>
