@@ -1,7 +1,8 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
-	<title></title>
+	<title>P1</title>
 	
 	<link rel="stylesheet" href="css/latham.css" type="text/css">
 	<link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>
